@@ -16,7 +16,7 @@
  <img align="center" alt="Luan-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Luan-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div><br>
-<img align="right" alt="luan-c" src="https://c.tenor.com/8Rabt4Nd73AAAAAM/noragami-yato-kawaii.gif">
+<img align="right" alt="luan-c" src="https://c.tenor.com/PqFx3thZmfYAAAAM/roku-vi.gif">
 <div> 
   <a href="https://www.linkedin.com/in/luan-costa-88b2981b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:luancostaspereira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
