@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil, meu nome é Luan Costa!!
 
-- Atualmente estou estudando na universidade UNINOVE Campus Memorial, cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).
+- Atualmente sou graduado em Análise e Desenvolvimento de Sistemas (ADS) pela universidade UNINOVE Campus Memorial.
 
  <div>
   <a href="https://github.com/Luanc210">
