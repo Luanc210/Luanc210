@@ -1,6 +1,6 @@
 # Olá, me chamo Luan Costa! 👋
 
-🎓 Atualmente, sou graduando em **Análise e Desenvolvimento de Sistemas (ADS)** pela **Universidade UNINOVE - Campus Memorial**.
+🎓 Atualmente, sou graduado em **Análise e Desenvolvimento de Sistemas (ADS)** pela **Universidade UNINOVE - Campus Memorial**.
 
 ---
 
@@ -38,10 +38,32 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
-<!-- Imagem opcional abaixo, pode remover se quiser mais formal -->
-<!-- <div align="right">
-  <img src="https://c.tenor.com/Pqfx3htZmYAAAAAM/roku-vu.gif" height="120">
-</div> -->
+---
+
+### 🧠 Habilidades
+
+#### Hard Skills
+- Java (Básico)
+- Pacote Office (Intermediário)
+- Metodologias Ágeis
+- Controle de Versão (Git)
+- Front-End (HTML, CSS e JS - Básico)
+- Photoshop (Básico)
+
+#### Soft Skills
+- Facilidade para aprender
+- Proatividade
+- Trabalho em equipe
+- Organização
+- Comunicação clara
+
+---
+
+### 👨‍💻 Sobre mim
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e estou em busca da minha **primeira oportunidade profissional** na área de tecnologia.
+
+Tenho como objetivo aplicar meus conhecimentos, desenvolver novas habilidades e **contribuir ativamente com os resultados da empresa**.
 
 ---
 
