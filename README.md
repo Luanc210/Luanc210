@@ -26,8 +26,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanc210&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanc210&layout=compact&theme=dark&cache_seconds=60"/>
 </div>
 
 ---
